@@ -1,3 +1,5 @@
+
+
 local data = {10, 90, 30, 120, 50, 60, 70, 80}
 
 local function findSmallest(array)

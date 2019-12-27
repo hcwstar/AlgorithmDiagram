@@ -16,7 +16,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Launch",
-            "program": "${workspaceFolder}/chapter2/select_sort.lua"
+            "program": "${workspaceFolder}/main.lua"
         }
     ]
 }
