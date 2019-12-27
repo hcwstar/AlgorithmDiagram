@@ -1,7 +1,6 @@
 
 
 local data = {10, 90, 30, 120, 50, 60, 70, 80}
-
 local function findSmallest(array)
     local smallesetIndex = 1
     local smallesetItem = array[smallesetIndex]
@@ -25,3 +24,5 @@ local function select_sort(array)
     return newArray
 end
 print(table.concat(select_sort(data),"|"))
+
+
